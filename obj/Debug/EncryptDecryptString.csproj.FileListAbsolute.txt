@@ -1,0 +1,9 @@
+C:\Users\sven.LAWTRUST\Documents\GitHub\EncryptDecryptString\obj\Debug\EncryptDecryptString.csprojResolveAssemblyReference.cache
+C:\Users\sven.LAWTRUST\Documents\GitHub\EncryptDecryptString\obj\Debug\EncryptDecryptString.Form1.resources
+C:\Users\sven.LAWTRUST\Documents\GitHub\EncryptDecryptString\obj\Debug\EncryptDecryptString.csproj.GenerateResource.Cache
+C:\Users\sven.LAWTRUST\Documents\GitHub\EncryptDecryptString\obj\Debug\EncryptDecryptString.Properties.Resources.resources
+C:\Users\sven.LAWTRUST\Documents\GitHub\EncryptDecryptString\bin\Debug\EncryptDecryptString.exe.config
+C:\Users\sven.LAWTRUST\Documents\GitHub\EncryptDecryptString\bin\Debug\EncryptDecryptString.exe
+C:\Users\sven.LAWTRUST\Documents\GitHub\EncryptDecryptString\bin\Debug\EncryptDecryptString.pdb
+C:\Users\sven.LAWTRUST\Documents\GitHub\EncryptDecryptString\obj\Debug\EncryptDecryptString.exe
+C:\Users\sven.LAWTRUST\Documents\GitHub\EncryptDecryptString\obj\Debug\EncryptDecryptString.pdb
